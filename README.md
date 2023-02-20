@@ -1,15 +1,16 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/RobertASmith/PACEM?color=red&style=plastic)
 ![GitHub top language](https://img.shields.io/github/last-commit/RobertASmith/PACEM?style=plastic)
 ![GitHub repo size](https://img.shields.io/github/last-commit/RobertASmith/PACEM?style=plastic)
 ![GitHub forks](https://img.shields.io/github/forks/RobertASmith/PACEM?style=social&label=Fork&maxAge=2592000)
 
 # PACEM
+
 Physical Activity in Children Economic Model repository used to store model code and input data.
 
 Please cite this work as:
 
-<insert citation here>
+Smith, Robert (2023) Improving the validity and usability of decision models: case studies with a focus on physical activity. PhD thesis, University of Sheffield.
 
 ### Installation
 
