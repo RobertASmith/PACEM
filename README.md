@@ -10,7 +10,7 @@ Physical Activity in Children Economic Model repository used to store model code
 
 Please cite this work as:
 
-Smith, Robert (2023) Improving the validity and usability of decision models: case studies with a focus on physical activity. PhD thesis, University of Sheffield.
+Smith, Robert (2023) *Improving the validity and usability of decision models: case studies with a focus on physical activity*. PhD thesis, University of Sheffield.
 
 ### Installation
 
