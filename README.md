@@ -32,6 +32,12 @@ Once you have the data, save it in 'Data' and then run the following scripts:
 2. `scripts\create_visuals.R`
  Purpose: Create visualisations for reporting   
  Outputs: a set of figures and tables saved in 'Figures' folder.
+ 
+This code was developed in 2018 and many things have moved on in the five years since then. Please feel free to suggest edits and in particular to identify ways to speed up the code.
+
+Thanks,
+
+Rob
    
 
 
