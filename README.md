@@ -29,7 +29,7 @@ Once you have the data, save it in 'Data' and then run the following scripts:
 1. `mirosim_MAIN.R`
  Purpose: To run the model (as long as you have access to data).
  Outputs: a set of 9 .rds files saved in 'Results' folder containing model and sensitivity analysis results.
-2. `scripts\create_visuals.R`
+2. `Scripts\create_visuals.R`
  Purpose: Create visualisations for reporting   
  Outputs: a set of figures and tables saved in 'Figures' folder.
  
